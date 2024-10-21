@@ -1,0 +1,5 @@
+# cloner un repository : git clone "url du repository"
+# les 3 commandes de push :
+# git push
+# git push origin nom-branche
+# git push --force
