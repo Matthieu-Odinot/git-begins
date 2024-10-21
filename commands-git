@@ -3,3 +3,6 @@
 # git push
 # git push origin nom-branche
 # git push --force
+
+#pour créé une branche "git checkout -b "nom de la branche" " : clic en bas a gauche de visual -> créé une branche
+#pour changer de branche " git switch "nom de la branche" "
